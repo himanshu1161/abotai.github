@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/himanshu1161/abotai.github.git/static/css/main.5dcaba50.css",
-    "main.js": "/himanshu1161/abotai.github.git/static/js/main.3af7c455.js",
-    "static/js/787.27d19f1c.chunk.js": "/himanshu1161/abotai.github.git/static/js/787.27d19f1c.chunk.js",
-    "index.html": "/himanshu1161/abotai.github.git/index.html",
-    "main.5dcaba50.css.map": "/himanshu1161/abotai.github.git/static/css/main.5dcaba50.css.map",
-    "main.3af7c455.js.map": "/himanshu1161/abotai.github.git/static/js/main.3af7c455.js.map",
-    "787.27d19f1c.chunk.js.map": "/himanshu1161/abotai.github.git/static/js/787.27d19f1c.chunk.js.map"
+    "main.css": "/abotai.github.git/react/static/css/main.5dcaba50.css",
+    "main.js": "/abotai.github.git/react/static/js/main.801293d6.js",
+    "static/js/787.27d19f1c.chunk.js": "/abotai.github.git/react/static/js/787.27d19f1c.chunk.js",
+    "index.html": "/abotai.github.git/react/index.html",
+    "main.5dcaba50.css.map": "/abotai.github.git/react/static/css/main.5dcaba50.css.map",
+    "main.801293d6.js.map": "/abotai.github.git/react/static/js/main.801293d6.js.map",
+    "787.27d19f1c.chunk.js.map": "/abotai.github.git/react/static/js/787.27d19f1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5dcaba50.css",
-    "static/js/main.3af7c455.js"
+    "static/js/main.801293d6.js"
   ]
 }
